@@ -1,4 +1,1 @@
----
-title: Aravind Shankara Narayanan
----
-# aravind-shankar.github.io
+# Aravind Shankara Narayanan
